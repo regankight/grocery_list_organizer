@@ -3,6 +3,6 @@ This project automates cleaning and organizing a dataset (grocery list) — show
 
 Key Skills Shown:
 
-Deduplication processes
-Dictionary-based data management
-Cost aggregation / metric calculations
+- Deduplication processes
+- Dictionary-based data management
+- Cost aggregation / metric calculations
